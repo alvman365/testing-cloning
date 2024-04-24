@@ -2,4 +2,4 @@
 
 editado por Pedro Alvarez
 
-Edición de conflicto
+este es un conflito
